@@ -1,5 +1,4 @@
-Midas
----
+# Midas
 
 HTML and CSS boilerplate that allows you to easily create CSS themes.
 
